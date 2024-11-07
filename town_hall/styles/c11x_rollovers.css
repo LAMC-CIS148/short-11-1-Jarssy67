@@ -43,14 +43,14 @@ header img {
 main {
 	clear: left;
 }
-a { 
+img { 
 	display: block; 
 	width: 200px;
 	height: auto; 
 	background-image: url(../images/sorkin_desk260.jpg);
 	background-repeat: no-repeat;
 }
-a:hover {
+img:hover {
 	background-image: url(../images/sampson_dinosaur.jpg);
 /* the styles for the section */
 section {
