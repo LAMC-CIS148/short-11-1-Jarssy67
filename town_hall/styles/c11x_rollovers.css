@@ -57,7 +57,7 @@ section a img {
 }
 
 section a:hover img {
-    content: url('../images/alternate_image.jpg'); /* Set the alternate image here */
+    content: url('../images/sorkin_desk260.jpg'); /* */
 }
 
 /* Styles for the section */
